@@ -25,4 +25,8 @@ protractor conf.js
 
 Inside conf.js, you can set it to use port 8000 (instead of 4444) and then use this terminal command: `webdriver-manager start --seleniumPort 8000`
 
+Description of Protractor:
 https://www.protractortest.org/
+
+More Usage Examples:
+https://www.protractortest.org/#/tutorial
